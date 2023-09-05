@@ -1,4 +1,4 @@
-# Linear-Regression-Stock-Predictor
+# Nike-Stock-Predictor
 
 ## DESCRIPTION
 In this project, I created a webscraper that scrapes the stock price of Nike's Stock from Google finance. 
